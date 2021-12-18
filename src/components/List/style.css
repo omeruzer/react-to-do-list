@@ -1,0 +1,22 @@
+.list-container{
+    margin: auto;
+    display: inline-block;
+    text-align: center;
+}
+
+.list-container ul{
+    list-style: none;
+}
+
+.list-box li{
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: rgb(91, 207, 239);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    text-shadow: #000 1px 0 5px;
+    border-radius: 15px;
+    color: #fff;
+    text-shadow: wheat;
+    font-size: 18px;
+    width: max-content ;
+}
